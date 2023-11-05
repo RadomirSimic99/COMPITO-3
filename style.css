@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    font-family: Arial;
+}
+.primoquadro {
+    
+    box-shadow:4px 7px 7px 0px #cdcaca42 ;
+}
+.bordoprimo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 100px;
+
+}
+.logomedium {
+    height: 40px;
+}
+.uno {
+    border-radius: 80px;
+    color: black;
+    background-color: white;
+    margin: 0 7px;
+    height: 25px;
+    border: 1px solid black;
+}
+.h4uno {
+    background-color: orangered;
+    border-radius: 0%;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius:50%;
+    margin: 0 7px;
+    text-align: center;
+}
+.rightzone {
+    display: flex;
+    align-items: center;
+}
+.iprimi {
+    color: rgba(138, 138, 138, 0.93);
+    margin: 0 7px;
+}
+main {
+    display: flex;
+
+}
+.secondleftsidebar {
+    width: 60%;
+    margin: 30px 110px;   
+}
+.secondrightsidebar {
+    width: 40%;
+    margin: 30px 110px; 
+}
+.z {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
+.zx {
+    color: grey;
+    font-family: Arial;
+}
+.zc {
+   font-family: arial;
+   margin: 0 25px;
+}
+.profile {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.zv { 
+    padding-top: 50px;  
+}
+.za{
+    color: grey;
+    padding-bottom: 20px;
+    
+}
+.zm {
+    padding-bottom: 10px;
+    color: grey; 
+}
+.zb {
+   padding-left: 690px;
+   margin: -80px;
+}
+.imaginel {
+    right: 500px;
+}
+.nameprofile {
+    padding-bottom: 15px;
+}
+.zn {
+    padding-bottom: 10px;
+}
+.cf {
+    margin: 0 10px;
+    color: grey;
+}
+.cg {
+    color: grey;
+}
+
+
+
+
+
+
+.twitter {
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding-bottom: 25px;
+}
+.kl {
+    height: 50px;
+   
+}
+.ko {
+   width: 50px;
+   padding-left: 4px;
+}
+.kp {
+    width: 50px;
+    color: rgb(0, 136, 255);
+    ;
+}
+.ku {
+    border: 1px solid black;
+    margin: 0 200px;
+    border-radius: 50px;
+    
+}
+.ky {
+    text-decoration: underline grey;
+    color: grey;
+    padding-top: 30px;
+}
+.k {
+    padding-bottom: 30px;
+}
+.rtt {
+    font-size: 20px;
+    margin: 0 100px;
+    padding-bottom: 30px;
+}
+.tre {
+    padding-bottom: 20px;
+}
+.topics {
+    padding: 40px;
+}
+.kq {
+    margin-left: -40px;
+}
+.i {
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.iu {
+    font-size: 25px;
+    color: black;
+}
+.tools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    padding-bottom: 60px;
+}
+.dc {
+    padding-bottom: 25px;
+}
+.dg {
+    padding-bottom:  15px;
+}
+.gf {
+    padding-bottom: 15px;
+}
+.su {
+    display: flex;
+    padding-bottom: 20px;
+}
+.toools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.er {
+    font-family: Arial;
+    color: grey;
+}
+.hy {
+    padding-bottom: 10px;
+}
+.he{
+    padding-bottom: 10px;
+}
+.hl {
+    padding-bottom: 35px;
+}
+.hp {
+    padding-bottom: 60px;
+}
+.zxc {
+    color: rgb(11, 187, 11);
+}
+.kji {
+    color: grey;
+}
+.uio {
+    color: grey;
+}
+.uyi {
+    color: grey;
+    padding-left: 10px;
+}
+
